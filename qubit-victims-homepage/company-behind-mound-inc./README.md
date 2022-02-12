@@ -1,6 +1,6 @@
 # Company Behind: Mound, Inc.
 
-## Shareholders
+## Mound Labs PTE.LTD. Shareholders
 
 | Name                 | Address                                            | Share |
 | -------------------- | -------------------------------------------------- | ----- |
@@ -9,6 +9,14 @@
 | Jason Jeon           | 2286 Ocaso Camino, Fremont, CA 94539 USA           | 2.5%  |
 | Kibeon Seoug         | 552 Farview Ave, WYCKOFF, NJ 07481-1140, USA       | 1%    |
 | David Phil Hyun Moon | 10556 Wilkins Ave, Los Angeles, CA 90024-6033, USA |       |
+
+## Krypton PTE.LTD.
+
+| Name          | Address                                                                 | Shares |
+| ------------- | ----------------------------------------------------------------------- | ------ |
+| HUR JUN       | 104-DONG 203-HO, 50, HYORYEONG-RO 33-GIL, SEOCHO-GU, SEOUL, SOUTH KOREA | 60%    |
+| Kim Yooshin   | 103-DONG 1003-HO, 391, HYORYEONG, SEOCHO-GU, SEOUL, KOREA               | 20%    |
+| Kim Hyungchul | 105-DONG 2001-HO, 84, GEOBUKGOL-RO, SEODAEMUN-GU, SEOUL, KOREA          | 20%    |
 
 ## website
 
