@@ -2,7 +2,7 @@
 
 ## Questionable Points for Qubit Team
 
-1. why don't the team answer the people who has the hacker info?\
+1. why don't the team answer the people who has the hacker info although they stated they are waiting for people who could provide such info?\
    \
    [https://www.reddit.com/r/PancakeBunny/comments/spucnk/ive\_contacted\_the\_team\_on\_tox\_and\_no\_response\_yet/](https://www.reddit.com/r/PancakeBunny/comments/spucnk/ive\_contacted\_the\_team\_on\_tox\_and\_no\_response\_yet/)\
 
