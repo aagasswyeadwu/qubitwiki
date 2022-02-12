@@ -1,6 +1,18 @@
 # Company Behind: Mound, Inc.
 
-## [https://mound.finance/](https://mound.finance)
+## Shareholders
+
+| Name                 | Address                                            | Share |
+| -------------------- | -------------------------------------------------- | ----- |
+| Krypton PRT. LTD.    | 3 Fraser Street #05-25, Duo Tower, Singapore       | 90.5% |
+| Josh Joonsup Chung   | 67 Harlow, Ivrine, CA 92618-1331, USA              | 1%    |
+| Jason Jeon           | 2286 Ocaso Camino, Fremont, CA 94539 USA           | 2.5%  |
+| Kibeon Seoug         | 552 Farview Ave, WYCKOFF, NJ 07481-1140, USA       | 1%    |
+| David Phil Hyun Moon | 10556 Wilkins Ave, Los Angeles, CA 90024-6033, USA |       |
+
+## website
+
+[https://mound.finance/](https://mound.finance)
 
 ## qbt.fi whois info
 
@@ -13,7 +25,7 @@
 | city            | Daejeon                      |
 | country         | South Korea                  |
 
-#### Company Address:
+## Company Address:
 
 R\&D Center: 서울특별시 서초구 서초동 서초대로 396
 
