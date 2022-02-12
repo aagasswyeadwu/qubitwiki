@@ -1,8 +1,8 @@
 # Qubit 被黑信息汇总
 
-## 7问 Qubit 团队：
+## 整个案件中的疑点：
 
-1. 为什么团队不响应有网友提供黑客信息？\
+1. 为什么团队不响应网友提供黑客信息，尽管他们声称他们欢迎举报？\
    [https://www.reddit.com/r/PancakeBunny/comments/spucnk/ive\_contacted\_the\_team\_on\_tox\_and\_no\_response\_yet/](https://www.reddit.com/r/PancakeBunny/comments/spucnk/ive\_contacted\_the\_team\_on\_tox\_and\_no\_response\_yet/)\
 
 2. 为什么团队不同时为黑客和帮助我们抓住黑客或者找回钱的人提供奖金？
